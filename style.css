@@ -1,0 +1,11 @@
+
+h1{
+	text-decoration: overline;
+	color : darkgreen;
+}
+
+.member-image{
+	width: 200px;
+	height: 250px;
+	object-fit: cover;
+}
